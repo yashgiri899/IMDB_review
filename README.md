@@ -31,7 +31,7 @@ After downloading, place the dataset (`IMDB Dataset.csv`) inside a `data/` folde
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/sentiment-analysis-imdb.git
+git clone https://github.com/yashgiri899/sentiment-analysis-imdb.git
 cd sentiment-analysis-imdb
 ```
 
@@ -50,19 +50,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🧹 Project Structure
 
-```
-sentiment-analysis-imdb/
-├── data/
-│   └── IMDB Dataset.csv
-├── train_model.py
-├── requirements.txt
-└── README.md
-```
-
-
----
 
 ## 🚦 How to Run
 
@@ -117,6 +105,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 Thanks to Kaggle and Lakshmi Narasimhan for providing the IMDB movie review dataset!
 
----
 
+---
+CONTACT ME ON - yashgiri803@gmail.com
 > Made with ❤️ for learning and exploring NLP and Deep Learning.
